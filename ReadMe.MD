@@ -1,1 +1,1 @@
-This project store IITK AIML Course Solutions
+This project stores IITK AIML Course Solutions
